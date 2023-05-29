@@ -6,5 +6,5 @@ Well, this is a library containing the re-implemenation of some functions from t
 By code, I mean spaghetti, literally...
 
 ## How to use it?
-Simply run make (or make bnous if you want the extra link-lists manipulation functions) and then link the library using the -l flag.
+Simply run make (or make bonus if you want the extra link-lists manipulation functions) and then link the library using the -l flag.
 That's it!
